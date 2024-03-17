@@ -19,7 +19,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@David-Nezri/jobber-shared": "^0.1.6",
     "@elastic/elasticsearch": "^8.10.0",
     "@socket.io/redis-adapter": "^8.2.1",
     "axios": "^1.6.0",
